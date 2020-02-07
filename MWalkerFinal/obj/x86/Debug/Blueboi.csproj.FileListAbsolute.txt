@@ -1,0 +1,50 @@
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\Content\Images\PlayerSprites\freefallSpriteSheet.xnb
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\Content\Images\PlayerSprites\jumpSpritesheet.xnb
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\Content\Images\PlayerSprites\landSpritesheet.xnb
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\Content\Images\PlayerSprites\placeholderBoi.xnb
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\Content\Images\LogSprites\LogBottom.xnb
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\Content\Images\LogSprites\TopLog.xnb
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\Content\Images\GameScreens\CreditScreen.xnb
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\Content\Images\GameScreens\EndScreen.xnb
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\Content\Images\GameScreens\helpScreen.xnb
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\Content\Images\GameBackgrounds\0.xnb
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\Content\Images\GameBackgrounds\1.xnb
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\Content\Images\GameBackgrounds\2.xnb
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\Content\Images\GameBackgrounds\3.xnb
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\Content\Images\Foreground\foreground.xnb
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\Content\Music\Forest Frenzy.wma
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\Content\Music\Forest Frenzy.xnb
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\Content\Music\Game Over.wma
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\Content\Music\Game Over.xnb
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\Content\Music\Theme.wma
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\Content\Music\Theme.xnb
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\Content\Fonts\HighlightFont.xnb
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\Content\Fonts\LivesAndScore.xnb
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\Content\Fonts\RegularFont.xnb
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\MWalkerFinal.exe.manifest
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\MWalkerFinal.application
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\MWalkerFinal.exe
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\MWalkerFinal.pdb
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\obj\x86\Debug\Blueboi.csprojAssemblyReference.cache
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\obj\x86\Debug\Blueboi.csproj.CoreCompileInputs.cache
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\obj\x86\Debug\MWalkerFinal.exe.manifest
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\obj\x86\Debug\MWalkerFinal.application
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\obj\x86\Debug\Blueboi.csproj.CopyComplete
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\obj\x86\Debug\MWalkerFinal.exe
+C:\Users\Morgan\School\Year 2\Semester1\PROG2370 - Game Programming\MWalkerFinal\MWalkerFinal\obj\x86\Debug\MWalkerFinal.pdb

@@ -1,0 +1,12 @@
+CHANGES TO BE MADE:
+1. Add timer/score to screen
+2. Change health to a health bar rather than a number
+3. Make top logs require to be crouched under
+4. shorten bottom logs so player jump can be quicker
+5. make the game reset when you lose
+6. add sound effects
+7. wood breaking animation
+8. player run animation
+9. player hit animation
+10. Crouch animation
+11. proper score system(objects that give points when the player collides with them?)
