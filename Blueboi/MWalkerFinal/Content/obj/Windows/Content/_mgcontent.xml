@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Morgan/School/Year 2/PROG2370 - Game Programming/MWalkerFinal/MWalkerFinal/Content/Fonts/HighlightFont.spritefont</File>
+    <File>C:/Users/Morgan/School/Year 2/PROG2370 - Game Programming/MWalkerFinal/MWalkerFinal/Content/Fonts/RegularFont.spritefont</File>
+    <File>C:/Users/Morgan/School/Year 2/PROG2370 - Game Programming/MWalkerFinal/MWalkerFinal/Content/Images/EnemySprites/enemyAttack.png</File>
+    <File>C:/Users/Morgan/School/Year 2/PROG2370 - Game Programming/MWalkerFinal/MWalkerFinal/Content/Images/EnemySprites/enemyDeath.png</File>
+    <File>C:/Users/Morgan/School/Year 2/PROG2370 - Game Programming/MWalkerFinal/MWalkerFinal/Content/Images/EnemySprites/enemyWalk.png</File>
+    <File>C:/Users/Morgan/School/Year 2/PROG2370 - Game Programming/MWalkerFinal/MWalkerFinal/Content/Images/GameBackgrounds/testBackground.jpg</File>
+    <File>C:/Users/Morgan/School/Year 2/PROG2370 - Game Programming/MWalkerFinal/MWalkerFinal/Content/Images/PlatformSprite/platform.png</File>
+    <File>C:/Users/Morgan/School/Year 2/PROG2370 - Game Programming/MWalkerFinal/MWalkerFinal/Content/Images/PlayerSprites/attack1.png</File>
+    <File>C:/Users/Morgan/School/Year 2/PROG2370 - Game Programming/MWalkerFinal/MWalkerFinal/Content/Images/PlayerSprites/attack2.png</File>
+    <File>C:/Users/Morgan/School/Year 2/PROG2370 - Game Programming/MWalkerFinal/MWalkerFinal/Content/Images/PlayerSprites/attack3.png</File>
+    <File>C:/Users/Morgan/School/Year 2/PROG2370 - Game Programming/MWalkerFinal/MWalkerFinal/Content/Images/PlayerSprites/bazinga0001.png</File>
+    <File>C:/Users/Morgan/School/Year 2/PROG2370 - Game Programming/MWalkerFinal/MWalkerFinal/Content/Images/PlayerSprites/idlePlayer.png</File>
+    <File>C:/Users/Morgan/School/Year 2/PROG2370 - Game Programming/MWalkerFinal/MWalkerFinal/Content/Images/PlayerSprites/playerWalker.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Images/PlayerSprites/placeholderBoi.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

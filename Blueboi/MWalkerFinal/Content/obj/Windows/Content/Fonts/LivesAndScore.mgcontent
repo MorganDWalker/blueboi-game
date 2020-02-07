@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Morgan/School/Year 2/Semester1/PROG2370 - Game Programming/MWalkerFinal/MWalkerFinal/Content/Fonts/File.spritefont</SourceFile>
+  <SourceTime>2019-12-08T00:56:57.2870765-05:00</SourceTime>
+  <DestFile>C:/Users/Morgan/School/Year 2/Semester1/PROG2370 - Game Programming/MWalkerFinal/MWalkerFinal/Content/bin/Windows/Content/Fonts/LivesAndScore.xnb</DestFile>
+  <DestTime>2020-02-07T13:47:58.7233548-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-09-06T09:51:44-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-09-06T09:51:44-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
