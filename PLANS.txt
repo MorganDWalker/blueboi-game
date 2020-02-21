@@ -10,3 +10,5 @@ CHANGES TO BE MADE:
 9. player hit animation
 10. Crouch animation
 11. proper score system(objects that give points when the player collides with them?)
+12. Try to change hit boxes to per-pixel collision rather then squares(round character leads to unfair hitboxes)
+13. Convert or copy the game in the Android Monogame Framework
